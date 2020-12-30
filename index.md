@@ -1,9 +1,11 @@
 ## Full Stack Developer
 
 <section id="introduction" class="clearfix">
+ 
   * <a href="">Python</a>
   * <a href="">Drupal</a>
   * <a href="">Docker</a>
+  
 </section>
 
 
