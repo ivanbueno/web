@@ -1,15 +1,12 @@
-## Full Stack Developer
-
-<section id="introduction" class="clearfix">
+<section id="work" class="clearfix">
  
+## Full Stack Developer 
+
   * <a href="">Python</a>
   * <a href="">Drupal</a>
   * <a href="">Docker</a>
   
-</section>
-
-
-<section id="links" class="clearfix">        
-  <a href="https://github.com/pages-themes/tactile/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
-  <a href="https://github.com/pages-themes/tactile/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+  <a href="" id="view-on-linkedin" class="button"><span>LinkedIn</span></a>
+  <a href="" id="view-on-imdb" class="button"><span>IMDB</span></a>
+  <a href="" id="view-on-patents" class="button"><span>Patents</span></a>
 </section>
