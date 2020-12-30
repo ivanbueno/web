@@ -7,6 +7,14 @@
   * <a href="">Docker</a>
   
   <a href="" id="view-on-linkedin" class="button"><span>LinkedIn</span></a>
-  <a href="" id="view-on-imdb" class="button"><span>IMDB</span></a>
   <a href="" id="view-on-patents" class="button"><span>Patents</span></a>
+</section>
+
+<section id="fun" class="clearfix">
+ 
+## Fun
+
+ * Filmmaking
+ * Woodworking
+ 
 </section>
